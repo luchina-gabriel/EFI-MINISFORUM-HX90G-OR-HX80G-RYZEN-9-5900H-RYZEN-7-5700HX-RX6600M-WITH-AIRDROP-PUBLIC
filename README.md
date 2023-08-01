@@ -1,5 +1,7 @@
 # Mini Hackintosh - Ryzen 9 5900HX + AMD Radeon RX 6600M
 
+![Overview](https://github.com/luchina-gabriel/EFI-MINISFORUM-HX90G-OR-HX80G-RYZEN-9-5900H-RYZEN-7-5700HX-RX6600M-WITH-AIRDROP-PUBLIC/assets/23700365/2fccf4f9-d57d-4e4d-ba36-cfbd63d97207)
+
 # Basic Information
 
 **Latest working macOS**: macOS Ventura (13.5)
